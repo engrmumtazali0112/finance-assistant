@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import { ClerkProvider } from "@clerk/nextjs";
+
+// @ts-ignore - CSS import is handled by Next.js
 import "./globals.css";
 
 export const metadata: Metadata = {
