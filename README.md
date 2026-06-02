@@ -53,6 +53,43 @@
 
 ---
 
+
+
+## 📸 Screenshots
+
+<div align="center">
+
+### 🏠 Overview Dashboard
+<img src="docs/screenshots/overview.png" width="100%" alt="Overview Dashboard" />
+
+<br/>
+
+### 🤖 AI Assistant
+<img src="docs/screenshots/assistant.png" width="100%" alt="AI Assistant" />
+
+<br/>
+
+### 💳 Transactions
+<img src="docs/screenshots/transactions.png" width="100%" alt="Transactions" />
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>📊 Spending Trends</strong><br/>
+      <img src="docs/screenshots/trends.png" width="100%" alt="Spending Trends" />
+    </td>
+    <td width="50%">
+      <strong>🎯 Budgets</strong><br/>
+      <img src="docs/screenshots/budgets.png" width="100%" alt="Budgets" />
+    </td>
+  </tr>
+</table>
+
+</div>
+---
+
 ## 🏗️ Architecture
 
 ```
