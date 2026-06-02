@@ -1,0 +1,50 @@
+date,description,amount,category,merchant
+2026-05-01,Whole Foods Market,-87.43,Food,Whole Foods
+2026-05-02,Spotify Premium,-9.99,Entertainment,Spotify
+2026-05-03,Shell Gas Station,-54.20,Transport,Shell
+2026-05-04,Netflix,-15.49,Entertainment,Netflix
+2026-05-05,Amazon Purchase,-142.00,Shopping,Amazon
+2026-05-07,Uber Ride,-12.50,Transport,Uber
+2026-05-08,Chipotle,-13.75,Food,Chipotle
+2026-05-09,CVS Pharmacy,-28.60,Healthcare,CVS
+2026-05-10,Starbucks,-6.45,Food,Starbucks
+2026-05-11,Electric Bill,-95.00,Utilities,PG&E
+2026-05-12,Trader Joe's,-64.30,Food,Trader Joe's
+2026-05-13,Gym Membership,-45.00,Healthcare,Planet Fitness
+2026-05-14,Internet Bill,-69.99,Utilities,Comcast
+2026-05-15,Salary,3500.00,Income,Employer
+2026-05-16,Target,-78.23,Shopping,Target
+2026-05-17,Uber Eats,-32.40,Food,Uber Eats
+2026-05-18,Apple iCloud,-2.99,Entertainment,Apple
+2026-05-19,Costco,-187.54,Shopping,Costco
+2026-05-20,Doctor Visit,-30.00,Healthcare,Kaiser
+2026-05-21,Lyft,-9.80,Transport,Lyft
+2026-05-22,Whole Foods Market,-91.20,Food,Whole Foods
+2026-05-23,Steam Games,-24.99,Entertainment,Steam
+2026-05-24,Walgreens,-18.45,Healthcare,Walgreens
+2026-05-25,McDonald's,-8.75,Food,McDonald's
+2026-05-26,Water Bill,-42.00,Utilities,City Water
+2026-05-27,Amazon Purchase,-250.00,Shopping,Amazon
+2026-05-28,Spotify Premium,-9.99,Entertainment,Spotify
+2026-05-29,Uber Ride,-15.30,Transport,Uber
+2026-05-30,Sushi Restaurant,-67.80,Food,Nobu
+2026-04-01,Whole Foods Market,-82.10,Food,Whole Foods
+2026-04-02,Spotify Premium,-9.99,Entertainment,Spotify
+2026-04-05,Netflix,-15.49,Entertainment,Netflix
+2026-04-07,Amazon Purchase,-98.00,Shopping,Amazon
+2026-04-10,Electric Bill,-88.50,Utilities,PG&E
+2026-04-15,Salary,3500.00,Income,Employer
+2026-04-18,Target,-55.40,Shopping,Target
+2026-04-20,Gym Membership,-45.00,Healthcare,Planet Fitness
+2026-04-22,Chipotle,-12.90,Food,Chipotle
+2026-04-25,Internet Bill,-69.99,Utilities,Comcast
+2026-04-28,Costco,-145.30,Shopping,Costco
+2026-03-01,Whole Foods Market,-78.90,Food,Whole Foods
+2026-03-05,Spotify Premium,-9.99,Entertainment,Spotify
+2026-03-10,Netflix,-15.49,Entertainment,Netflix
+2026-03-15,Salary,3500.00,Income,Employer
+2026-03-18,Amazon Purchase,-189.00,Shopping,Amazon
+2026-03-20,Electric Bill,-102.00,Utilities,PG&E
+2026-03-22,Target,-63.20,Shopping,Target
+2026-03-25,Gym Membership,-45.00,Healthcare,Planet Fitness
+2026-03-28,Costco,-201.40,Shopping,Costco
